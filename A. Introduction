@@ -4,4 +4,4 @@ Introduction
       designed to load test functional behavior and measure performance.
   2. You can use JMeter to analyze and measure the performance of web application or a variety of services. 
   3. Performance Testing means testing a web application against heavy load, multiple and concurrent user traffic.
-
+  4. JMeter originally is used for testing Web Application or FTP application. Nowadays, it is used for a functional test, database server test etc.
