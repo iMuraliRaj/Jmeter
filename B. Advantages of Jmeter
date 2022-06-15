@@ -1,0 +1,14 @@
+JMeter Advantages
+
+Open source license: JMeter is totally free, allows developer use the source code for the development
+Friendly GUI: JMeter is extremely easy to use and doesn’t take time to get familiar with it
+Platform independent: JMeter is 100% pure Java desktop application. So it can run on multiple platforms
+Full multithreading framework. JMeter allows concurrent and simultaneous sampling of different functions by a separate thread group
+Visualize Test Result: Test result can be displayed in a different format such as chart, table, tree and log file
+Easy installation: You just copy and run the *.bat file to run JMeter. No installation needed.
+Highly Extensible: You can write your own tests. JMeter also supports visualization plugins allow you to extend your testing
+Multiple testing strategy: JMeter supports many testing strategies such as Load Testing, Distributed Testing, and Functional Testing.
+Simulation: JMeter can simulate multiple users with concurrent threads, create a heavy load against web application under test
+Support multi-protocol: JMeter does not only support web application testing but also evaluate database server performance. All basic protocols such as HTTP, JDBC, LDAP, SOAP, JMS, and FTP are supported by JMeter
+Record & Playback – Record the user activity on the browser and simulate them in a web application using JMeter
+Script Test: Jmeter can be integrated with Bean Shell & Selenium for automated testing.
