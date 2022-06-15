@@ -3,4 +3,5 @@ Introduction
   1. The Apache JMeterTM is pure Java open source software, which was first developed by Stefano Mazzocchi of the Apache Software Foundation,
       designed to load test functional behavior and measure performance.
   2. You can use JMeter to analyze and measure the performance of web application or a variety of services. 
- 
+  3. Performance Testing means testing a web application against heavy load, multiple and concurrent user traffic.
+
